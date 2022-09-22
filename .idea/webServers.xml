@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c077c9a-6d94-48c3-bce0-fa141966bdad" name="MADAN">
+        <fileTransfer rootFolder="/data12T/ydaugust/code/domain_adaptation/MADAN-master" accessType="SFTP" host="202.38.69.241" port="22232" sshConfigId="aa7d36a2-76c7-40e6-82ef-c0e0a0b7c697" sshConfig="ydaugust@202.38.69.241:22232 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
